@@ -1,0 +1,7 @@
+# Project exclude paths
+/Documents/
+/node_modules/
+
+.env
+DevLogs.md
+package-lock.json
