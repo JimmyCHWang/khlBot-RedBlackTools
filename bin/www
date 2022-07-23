@@ -94,3 +94,9 @@ function onListening() {
 const botInit = require('../kbotify/index');
 
 botInit();
+
+// Initialize DB
+const initDb = require('../db/db.init')
+
+initDb();
+
